@@ -1,7 +1,8 @@
 menu:
   Home: /
   Archives: /archives
-  Tumblr: http://t.pingan.im
+  About: /about
+  RSS: /atom.xml
 
 
 widgets:
